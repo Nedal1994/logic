@@ -1,0 +1,23 @@
+{
+  "name": "logic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "logic.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nedal1994/logic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nedal1994/logic/issues"
+  },
+  "homepage": "https://github.com/Nedal1994/logic#readme",
+  "dependencies": {
+    "jest": "^27.4.7"
+  }
+}
